@@ -1,14 +1,14 @@
-1.XAMPP
+1. XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2. "TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"voting management system"
+3. "voting management system"
 
-4. Download the zip file/ download winrar
+4. Download the zip file. Extract it.
 
 5. Extract the file and copy "voting management system" folder
 
-6.Paste inside root directory/ where you install xammp  (for opt/lampp/htdocs)
+6.Paste inside root directory/ where you install xampp  (for opt/lampp/htdocs)
 
 7. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
