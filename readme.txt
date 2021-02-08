@@ -8,7 +8,7 @@
 
 5. Extract the file and copy "voting management system" folder
 
-6.Paste inside root directory/ where you install xampp  (for opt/lampp/htdocs)
+6. Paste inside root directory/ where you install xampp  (for opt/lampp/htdocs)
 
 7. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
